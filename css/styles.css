@@ -1,3 +1,40 @@
-img {
+#hidden {
   display: none;
 }
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable {
+  text-decoration: underline;
+}
+
+
+.dark-theme {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.light-theme {
+  background-color: #c0d1ed;
+  color: #002259;
+  font-weight: bold;
+}
+
+/*
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+*/
